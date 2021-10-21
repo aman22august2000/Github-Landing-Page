@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman22august2000&label=Profile%20views&color=0e75b6&style=flat" alt="aman22august2000" /> </p>
 
-[![GitHub](https://github-readme-streak-stats.herokuapp.com?user=aman22august2000&theme=nord&hide_border=true&theme=radical&show_icons=true)](https://git.io/streak-stats)
+[![GitHub](https://github-readme-streak-stats.herokuapp.com?user=aman22august2000&theme=nord&hide_border=true&theme=radical&show_icons=true&langs_count=8)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=aman22august2000&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
 
