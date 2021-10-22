@@ -69,6 +69,8 @@
 <a href = "https://twitter.com/lightyagami1377"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/lightyagami1377/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100035739581472"><img src="https://img.icons8.com/fluency/50/000000/facebook-new.png"/></a>
+<a href = "https://t.me/lightyagami1377"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href = "https://www.snapchat.com/add/snapysnopysnap?share_id=8P7p2bckiLs&locale=en-GB"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/></a>
 
 </p>
 
