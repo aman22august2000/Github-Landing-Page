@@ -80,6 +80,7 @@
 <a href = "https://www.hackerrank.com/aman_it_13"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/></a>
 <a href = "https://www.codechef.com/users/aman_it_13"><img src="https://icons-for-free.com/iconfiles/png/48/codechef-1324440139527402917.png"/></a>
 <a href = "https://codeforces.com/profile/aman_it_13"><img src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/s48/codeforces.png"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/aman22august2000/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
 
 </p>
 
