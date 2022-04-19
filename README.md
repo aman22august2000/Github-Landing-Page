@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio Website]**
+- 🔭 I’m currently working on **https://aman22august2000.github.io/portfolio-website/**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love playing chess. I also love solving rubics cube and reading books in my free time**
 
 ## 🚀 Languages and Tools:
 
