@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **I love playing chess. I also love solving rubics cube and reading books in my free time**
+- ⚡ Fun fact **I love playing chess. I also love playing chess, solving rubics cube and reading books in my free time**
 
 ## 🚀 Languages and Tools:
 
